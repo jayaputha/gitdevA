@@ -1,0 +1,1 @@
+Write-Output "Merge from gitB to gitA"
